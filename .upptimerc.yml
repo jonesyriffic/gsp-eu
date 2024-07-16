@@ -23,9 +23,11 @@ status-website:
   introTitle: EU Uptime
   navbar:
     - title: EU
-      href: https://jonesyriffic.github.io/gsp-eu/
+      href: /
     - title: Peacock
       href: https://jonesyriffic.github.io/gsp-peacock/
+    - title: SST
+      href: https://jonesyriffic.github.io/gsp-sst/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
