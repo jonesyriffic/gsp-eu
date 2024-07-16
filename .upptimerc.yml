@@ -21,12 +21,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GSP Customer Management Uptime
   introTitle: EU Uptime
-  introMessage: xxxxxx
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: EU
+      href: https://jonesyriffic.github.io/gsp-eu/
+    - title: Peacock
+      href: https://jonesyriffic.github.io/gsp-peacock/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
