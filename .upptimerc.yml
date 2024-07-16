@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GSP Customer Management Uptime
   introTitle: EU Uptime
-  introMessage: xxxxx
+  introMessage: xxxxxx
   navbar:
     - title: Status
       href: /
