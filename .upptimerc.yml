@@ -22,6 +22,8 @@ status-website:
   name: GSP Customer Management Uptime
   introTitle: EU Uptime
   navbar:
+    - title: Home
+      href: https://jonesyriffic.github.io/
     - title: EU
       href: /
     - title: Peacock
