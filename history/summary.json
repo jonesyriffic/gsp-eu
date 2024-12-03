@@ -76,9 +76,9 @@
     "url": "https://skyx.sky.at/hilfe/",
     "icon": "https://icons.duckduckgo.com/ip3/skyx.sky.at.ico",
     "slug": "sky-x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 1123,
     "timeMonth": 1052,
     "timeYear": 964,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   }
 ]
