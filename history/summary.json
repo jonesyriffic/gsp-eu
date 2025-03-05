@@ -40,19 +40,19 @@
     "url": "https://www.nowtv.it/assistenza/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nowtv.it.ico",
     "slug": "now-it",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 979,
-    "timeDay": 3770,
-    "timeWeek": 1565,
-    "timeMonth": 1154,
-    "timeYear": 979,
+    "time": 980,
+    "timeDay": 2913,
+    "timeWeek": 1525,
+    "timeMonth": 1155,
+    "timeYear": 980,
     "dailyMinutesDown": {
-      "2025-03-05": 0
+      "2025-03-05": 7
     }
   },
   {
