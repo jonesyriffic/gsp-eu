@@ -40,18 +40,20 @@
     "url": "https://www.nowtv.it/assistenza/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nowtv.it.ico",
     "slug": "now-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 1833,
-    "timeWeek": 974,
-    "timeMonth": 991,
-    "timeYear": 960,
-    "dailyMinutesDown": {}
+    "time": 979,
+    "timeDay": 3770,
+    "timeWeek": 1565,
+    "timeMonth": 1154,
+    "timeYear": 979,
+    "dailyMinutesDown": {
+      "2025-03-05": 0
+    }
   },
   {
     "name": "WOW DE",
