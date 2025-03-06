@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 923,
-    "timeWeek": 671,
-    "timeMonth": 725,
-    "timeYear": 882,
+    "time": 880,
+    "timeDay": 417,
+    "timeWeek": 674,
+    "timeMonth": 730,
+    "timeYear": 880,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 685,
-    "timeDay": 1274,
-    "timeWeek": 935,
-    "timeMonth": 733,
+    "timeDay": 807,
+    "timeWeek": 1019,
+    "timeMonth": 711,
     "timeYear": 685,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,16 @@
     "slug": "now-it",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 2913,
-    "timeWeek": 1525,
-    "timeMonth": 1155,
-    "timeYear": 980,
-    "dailyMinutesDown": {
-      "2025-03-05": 7
-    }
+    "time": 982,
+    "timeDay": 2742,
+    "timeWeek": 1629,
+    "timeMonth": 1187,
+    "timeYear": 982,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WOW DE",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 1907,
-    "timeWeek": 1031,
-    "timeMonth": 974,
-    "timeYear": 916,
+    "time": 915,
+    "timeDay": 777,
+    "timeWeek": 1105,
+    "timeMonth": 997,
+    "timeYear": 915,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 974,
-    "timeDay": 1197,
-    "timeWeek": 1478,
-    "timeMonth": 1161,
+    "timeDay": 1043,
+    "timeWeek": 1575,
+    "timeMonth": 1190,
     "timeYear": 974,
     "dailyMinutesDown": {}
   }
