@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 387,
-    "timeWeek": 909,
-    "timeMonth": 714,
-    "timeYear": 842,
+    "time": 840,
+    "timeDay": 213,
+    "timeWeek": 780,
+    "timeMonth": 698,
+    "timeYear": 840,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 1098,
-    "timeWeek": 707,
-    "timeMonth": 738,
-    "timeYear": 688,
+    "time": 687,
+    "timeDay": 426,
+    "timeWeek": 681,
+    "timeMonth": 715,
+    "timeYear": 687,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 626,
-    "timeWeek": 791,
-    "timeMonth": 1086,
-    "timeYear": 994,
+    "time": 992,
+    "timeDay": 400,
+    "timeWeek": 772,
+    "timeMonth": 1075,
+    "timeYear": 992,
     "dailyMinutesDown": {}
   },
   {
@@ -60,18 +60,16 @@
     "slug": "wow-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 739,
-    "timeWeek": 458,
-    "timeMonth": 582,
-    "timeYear": 882,
-    "dailyMinutesDown": {
-      "2025-05-13": 7
-    }
+    "time": 881,
+    "timeDay": 482,
+    "timeWeek": 453,
+    "timeMonth": 564,
+    "timeYear": 881,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sky X",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1015,
-    "timeDay": 1717,
-    "timeWeek": 1325,
-    "timeMonth": 1130,
-    "timeYear": 1015,
+    "time": 1012,
+    "timeDay": 236,
+    "timeWeek": 1071,
+    "timeMonth": 1123,
+    "timeYear": 1012,
     "dailyMinutesDown": {}
   }
 ]
