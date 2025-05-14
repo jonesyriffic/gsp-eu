@@ -22,18 +22,20 @@
     "url": "https://help.nowtv.com/ie/",
     "icon": "https://icons.duckduckgo.com/ip3/help.nowtv.com.ico",
     "slug": "now-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 426,
-    "timeWeek": 681,
-    "timeMonth": 715,
-    "timeYear": 687,
-    "dailyMinutesDown": {}
+    "time": 688,
+    "timeDay": 672,
+    "timeWeek": 711,
+    "timeMonth": 721,
+    "timeYear": 688,
+    "dailyMinutesDown": {
+      "2025-05-14": 0
+    }
   },
   {
     "name": "NOW IT",
