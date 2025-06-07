@@ -4,19 +4,19 @@
     "url": "https://help.nowtv.com/",
     "icon": "https://icons.duckduckgo.com/ip3/help.nowtv.com.ico",
     "slug": "now-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 1128,
-    "timeWeek": 1563,
-    "timeMonth": 947,
-    "timeYear": 851,
+    "time": 853,
+    "timeDay": 1365,
+    "timeWeek": 1568,
+    "timeMonth": 967,
+    "timeYear": 853,
     "dailyMinutesDown": {
-      "2025-06-07": 0
+      "2025-06-07": 5
     }
   },
   {
