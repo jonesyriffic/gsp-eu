@@ -6,18 +6,16 @@
     "slug": "now-uk",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 853,
-    "timeDay": 1365,
-    "timeWeek": 1568,
-    "timeMonth": 967,
-    "timeYear": 853,
-    "dailyMinutesDown": {
-      "2025-06-07": 5
-    }
+    "time": 858,
+    "timeDay": 2051,
+    "timeWeek": 1807,
+    "timeMonth": 1007,
+    "timeYear": 858,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NOW IE",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 652,
-    "timeDay": 38,
-    "timeWeek": 116,
-    "timeMonth": 331,
-    "timeYear": 652,
+    "time": 654,
+    "timeDay": 1314,
+    "timeWeek": 300,
+    "timeMonth": 362,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-05-14": 47
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1007,
-    "timeDay": 2642,
-    "timeWeek": 2360,
-    "timeMonth": 1102,
-    "timeYear": 1007,
+    "time": 1010,
+    "timeDay": 2060,
+    "timeWeek": 2548,
+    "timeMonth": 1152,
+    "timeYear": 1010,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 276,
-    "timeWeek": 690,
-    "timeMonth": 510,
-    "timeYear": 856,
+    "time": 858,
+    "timeDay": 1659,
+    "timeWeek": 857,
+    "timeMonth": 554,
+    "timeYear": 858,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 998,
-    "timeDay": 144,
-    "timeWeek": 657,
-    "timeMonth": 870,
-    "timeYear": 998,
+    "time": 999,
+    "timeDay": 1213,
+    "timeWeek": 768,
+    "timeMonth": 853,
+    "timeYear": 999,
     "dailyMinutesDown": {}
   }
 ]
